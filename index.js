@@ -1,4 +1,3 @@
-
 let SERVER_URL = "http://localhost:8080/api/"
 
 document.getElementById("buttons").onclick = handleFetchBtnClick
